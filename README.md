@@ -3,6 +3,5 @@ Utility for predicting and standardizing transliterated Arabic locality names us
 
 
 ## setup
-cd into `sudanetics`
-
-run `pip install -r requirements.txt`
+1. cd into `sudanetics`
+2. run `pip install -r requirements.txt`
