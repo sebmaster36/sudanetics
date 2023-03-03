@@ -1,0 +1,7 @@
+fuzzywuzzy==0.18.0
+Levenshtein==0.20.9
+phonetics==1.0.5
+pyphonetics==0.5.3
+python-Levenshtein==0.20.9
+rapidfuzz==2.13.7
+Unidecode==1.3.6
